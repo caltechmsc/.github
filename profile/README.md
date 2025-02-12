@@ -8,5 +8,6 @@ The Material and Process Simulation Center (MSC) at Caltech focuses on developin
 
 ## Projects
 
-| Repository | Description | Version/License |
-| ---------- | ----------- | --------------- |
+| Repository                                 | Description              | Version/License                                                                                                           |
+| ------------------------------------------ | ------------------------ | ------------------------------------------------------------------------------------------------------------------------- |
+| [site](https://github.com/caltechmsc/site) | The website for the MSC. | [![GitHub Release](https://img.shields.io/github/v/release/caltechmsc/site)](https://github.com/caltechmsc/site/releases) |
